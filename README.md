@@ -44,4 +44,10 @@
 [![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://atharvbobade.hashnode.dev/)
 
 
-<p><img align="left" src="https://activity-graph.herokuapp.com/graph?username=Atharv181&theme=minimal" alt="Atharv Bobade" /></p>
+## Contributions
+<div>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Atharv181&show_icons=true&theme=tokyonight"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv181&layout=compact&theme=tokyonight"/>
+</div>
+
+
