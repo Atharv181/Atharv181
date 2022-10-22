@@ -4,7 +4,7 @@
          width="45" /> I'm Atharv Bobade.
  </h1>
 
-## About me :student:
+## About me:student:
 
 - 👀 I am Atharv, currently in my final year of engineering.
 - 🌱 I’m currently learning Blockchain & Next.js.
