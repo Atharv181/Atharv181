@@ -47,7 +47,7 @@
 ## Contributions
 
 <div>
-         <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Atharv181&show_icons=true&theme=tokyonight"/>
+         <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Atharv181&show_icons=true&theme=tokyonight"/>
          <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv181&layout=compact&theme=tokyonight"/>
 </div>
 <div align="center">
