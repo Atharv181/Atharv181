@@ -9,7 +9,7 @@
 - 👀 I am Atharv, currently in my final year of engineering.
 - 🌱 I’m currently learning Blockchain & Next.js.
 - 👯 I’m looking to collaborate on web3 projects.
-- 💬 Ask me about **JAVA** & **Blockchain**
+- 💬 Ask me about **Java** , **Blockchain** & **JavaScript**
 
 
 ## Tech Stack
