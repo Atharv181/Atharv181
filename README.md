@@ -7,7 +7,7 @@
 ## About me:student:
 
 - 👀 I am Atharv, currently in my final year of engineering.
-- 🌱 I’m currently learning Blockchain & React.js.
+- 🌱 I’m currently learning Blockchain React.js & Golang.
 - 👯 I’m looking to collaborate on web3 projects.
 - 💬 Ask me about **Java** , **Blockchain** & **JavaScript**.
 
