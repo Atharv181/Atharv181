@@ -44,7 +44,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Atharvbobade/)
 
 
-## Contributions
+<!-- ## Contributions
 
 <div>
          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Atharv181&show_icons=true&theme=tokyonight"/>
@@ -52,6 +52,6 @@
 </div>
 <div align="center">
          <img  width="50%"src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv181&theme=tokyonight" alt="Atharv_Stats"/>
-</div>
+</div> -->
 
 
