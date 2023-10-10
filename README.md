@@ -1,15 +1,15 @@
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Atharv Bobade
+         width="45" /> I'm Atharv 
  </h1>
 
 ## About me:student:
 
-- 👀 I am Atharv, currently in my final year of engineering.
-- 🌱 I’m currently learning Blockchain React.js & Golang.
+- 👀 I am Atharv, currently working at Blockheory.
+- 🌱 I’m currently learning Blockchain & Golang.
 - 👯 I’m looking to collaborate on web3 projects.
-- 💬 Ask me about **Java** , **Blockchain** & **JavaScript**.
+- 💬 Ask me about **Java** , **Blockchain** & **Solidity**.
 
 
 ## Tech Stack
