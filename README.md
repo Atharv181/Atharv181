@@ -6,7 +6,7 @@
 
 ## About me:student:
 
-- 👀 I am Atharv, currently working at Blockheory.
+- 👀 I am Atharv, currently working at BlockTheory.
 - 🌱 I’m currently learning Blockchain & Golang.
 - 👯 I’m looking to collaborate on web3 projects.
 - 💬 Ask me about **Java** , **Blockchain** & **Solidity**.
