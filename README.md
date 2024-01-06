@@ -1,6 +1,6 @@
 <h1 align="center"> Hello,👋 I'm Atharv(atharv181.lens) </h1>
 
-## About me:student:
+## About me :student:
 
 - 👀 I am Atharv, currently working at BlockTheory.
 - 🌱 I’m currently learning Blockchain & Golang.
@@ -40,14 +40,14 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Atharvbobade/)
 
 
-<!-- ## Contributions
+## Contributions
 
 <div>
          <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Atharv181&show_icons=true&theme=tokyonight"/>
-         <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv181&layout=compact&theme=tokyonight"/>
+         <img  width="50%"src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv181&theme=tokyonight" alt="Atharv_Stats"/>  
 </div>
 <div align="center">
-         <img  width="50%"src="https://github-readme-streak-stats.herokuapp.com/?user=Atharv181&theme=tokyonight" alt="Atharv_Stats"/>
-</div> -->
+         <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv181&layout=compact&theme=tokyonight"/>
+</div>
 
 
