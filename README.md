@@ -5,7 +5,7 @@
 - 👀 I am Atharv, currently working at BlockTheory.
 - 🌱 I’m currently learning Blockchain & Smart Contract Auditing.
 - 👯 I’m looking to collaborate on web3 projects.
-- 💬 Ask me about **Blockchain**,**Solidity** & **Java**.
+- 💬 Ask me about **Blockchain**, **Solidity** & **Java**.
 
 
 ## Tech Stack
